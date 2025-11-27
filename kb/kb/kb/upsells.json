@@ -1,0 +1,5 @@
+{
+  "upsells": [
+    {"id":"breakfast","name":"Breakfast","price":12,"description":"Daily breakfast buffet."}
+  ]
+}
